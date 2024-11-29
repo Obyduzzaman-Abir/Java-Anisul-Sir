@@ -19,7 +19,7 @@ public class Palindrome {
         }
         else
         {
-            System.out.println("Not a Palindrome");
+            System.out.println("Not a Palindrome Please Try again Later");
         }
     }
 }
